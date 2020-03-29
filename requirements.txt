@@ -1,0 +1,6 @@
+protobuf==3.11.3
+pyobjc-core==6.2
+pyobjc-framework-Cocoa==6.2
+python-clementine-remote==1.0.3
+rumps==0.3.0
+six==1.14.0
