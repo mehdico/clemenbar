@@ -1,4 +1,4 @@
-protobuf==4.25.8
+protobuf==5.29.6
 pyobjc-core==6.2
 pyobjc-framework-Cocoa==6.2
 python-clementine-remote==1.0.3
